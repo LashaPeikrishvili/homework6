@@ -1,0 +1,8 @@
+.container{
+	max-width: 1366px;
+	width: 100%;
+}
+.container h1{
+	font-size: 18px;
+	margin:6px 683px 6px 565px;
+}
