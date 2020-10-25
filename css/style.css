@@ -6,3 +6,29 @@
 	font-size: 18px;
 	margin:6px 683px 6px 565px;
 }
+.box{
+	margin: 40px 40px 40px 40px;
+	background: #56836F;
+	width: 1286px;
+	height: 700px;
+}
+.navbar-li{
+	display: inline-block;
+	font-size: 48px;
+	float: right;
+	
+}
+.navbar-li:after{
+	content: '';
+	width: 50px;
+	display: inline-block;
+}
+.home img{
+	width: 201.2px;
+}
+.logo{
+	float: right;
+}
+.clear{
+	clear: right;
+}
