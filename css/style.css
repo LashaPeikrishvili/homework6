@@ -11,12 +11,12 @@
 	background: #56836F;
 	width: 1286px;
 	height: 700px;
+	object-fit: cover;
 }
 .navbar-li{
 	display: inline-block;
 	font-size: 48px;
-	float: right;
-	
+	float: right;	
 }
 .navbar-li:after{
 	content: '';
@@ -28,7 +28,87 @@
 }
 .logo{
 	float: right;
+
+}
+.home{
+	padding: 49px 55px 500px 100px;
+}
+.navbar-a{
+	color:white;
+	width: 786px;
+	height: 64px;
+	object-fit: cover;
+}
+.pic1{
+	float:right;
+	height: 158px;
+}
+.box1{
+	background: #FCEE21;
+	height: 356px;
+	width: 617px;
+	object-fit: cover;
+	float: left;
+}
+.text1{
+	padding-top: 15px;
+}
+.paragraph1{
+	font-size: 14px;
+}
+.inbox1{
+	width: 563.49px;
+	height: 321.4px;
+	object-fit: cover;
+	padding:15px 25px 15px 25px;
+}
+.box2{
+	background: #FCEE21;
+	height: 356px;
+	width: 523px;
+	object-fit: cover;
+	float: right;
+}
+.pic2{
+	float:left;
+	height: 158px;
+}
+.text2{
+	padding-top: 15px;
+}
+.paragraph2{
+	font-size: 14px;
+	color: #006837;
+	padding: 10px 10px 10px 10px;
+}
+.inbox2{
+	width: 563.49px;
+	height: 321.4px;
+	object-fit: cover;
+	padding:15px 25px 15px 25px;
+}
+.the-box{
+	width: 1158px;
+	height: 356px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 52px;
 }
 .clear{
-	clear: right;
+	clear: both;
+}
+.inbox2 p{
+	padding-right: 70px;
+}
+.box{
+	border-right: 4px solid #006837;
+	border-left: 4px solid #006837;
+	border-top: 4px solid #006837;
+	border-bottom: 4px solid #006837;
+}
+.container{
+	border-right: 4px solid #56836F;
+	border-left: 4px solid #56836F;
+	border-top: 4px solid #56836F;
+	border-bottom: 4px solid #56836F;
 }
